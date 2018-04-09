@@ -14,3 +14,8 @@ This app handles orientation changes and internet connection so it will not redo
 
 **RX - for observing data**
 
+# Screenshots 
+
+![](/app/src/main/res/drawable/Screenshot_20180410-073956.png)
+
+![](/app/src/main/res/drawable/Screenshot_20180410-074012.png)
