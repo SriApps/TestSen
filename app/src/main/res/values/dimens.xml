@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progressBarHeight">50dp</dimen>
+    <dimen name="layoutHeight">400dp</dimen>
+    <dimen name="ImageViewHeight">250dp</dimen>
+    <dimen name="circularImageViewHeight">60dp</dimen>
+    <dimen name="circularImageViewWidth">60dp</dimen>
+    <dimen name="iconImageHeight">20dp</dimen>
+    <dimen name="iconImageWidth">20dp</dimen>
+</resources>
