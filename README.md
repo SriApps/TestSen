@@ -1,5 +1,5 @@
 # TestSen
-This Test App demonstrates implementation various thrid party libraries to parse json data from an url into a recycler view and this project is developed in Kotlin.
+This Test App demonstrates implementation of various thrid party libraries to parse json data from an url into a recycler view and this project is developed in Kotlin.
 This app handles orientation changes and internet connection so it will not redownload data upon oreintation changes.This app also implements various activity and fragment lifecycle call backs.
 
 # Libraries Uses
