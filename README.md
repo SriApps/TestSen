@@ -16,6 +16,6 @@ This app handles orientation changes and internet connection so it will not redo
 
 # Screenshots 
 
-<img src="/app/src/main/res/drawable/Screenshot_20180410-073956.png" width="600" height="1000">
+<img src="/app/src/main/res/drawable/screenshot1.png" width="600" height="1000">
 
-![](/app/src/main/res/drawable/Screenshot_20180410-074012.png)
+![](/app/src/main/res/drawable/screenshot2.png)
